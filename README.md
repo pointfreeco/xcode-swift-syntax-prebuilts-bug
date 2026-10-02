@@ -1,4 +1,4 @@
-# Xcode SwiftSyntax prebuilts bug
+# FB25032548: Xcode SwiftSyntax prebuilts bug
 
 In certain project set ups it's possible for Xcode to stop using SwiftSyntax prebuilts, whereas building directly with SwiftPM from the command line does properly use prebuilts.
 
